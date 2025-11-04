@@ -1,0 +1,45 @@
+.mainWrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /*height: 100vh;*/
+    background: #D6CDE4FF;
+}
+
+.helloWrapper {
+    width: 80%;
+    display: flex;
+    height: 80vh;
+    background: url("../../assets/img/helloPageBackgroundImage.jpg");
+    background-size: cover;
+    justify-content: right;
+}
+
+.headerText {
+    text-align: center;
+    font-family: "GreatVibes-Regular";
+    width: 38%;
+    font-size: 27px;
+    margin: 85px 15px 25px 25px;
+}
+
+.backgroundImage {
+    width: 100%;
+    background-position: bottom;
+    height: 80vh;
+    /*border-radius: 12px;*/
+}
+.topProductsList {
+    width: 80%;
+    background: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.topProductsTitle {
+    font-family: Roboto;
+    margin-top: 35px;
+}
