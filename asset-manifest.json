@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Celunea/static/css/main.86d324b6.css",
-    "main.js": "/Celunea/static/js/main.4ef4c515.js",
+    "main.js": "/Celunea/static/js/main.8c4db4b3.js",
     "static/media/Anaktoria.ttf": "/Celunea/static/media/Anaktoria.ee69391ded18ae16a97f.ttf",
     "static/media/helloPageBackgroundImage.jpg": "/Celunea/static/media/helloPageBackgroundImage.1ecabfd5e3147789b24d.jpg",
     "static/media/10.png": "/Celunea/static/media/10.fd5514cd3765ca83541f.png",
@@ -21,10 +21,10 @@
     "static/media/logog-without-background.png": "/Celunea/static/media/logog-without-background.2a31c18844426b3a5287.png",
     "index.html": "/Celunea/index.html",
     "main.86d324b6.css.map": "/Celunea/static/css/main.86d324b6.css.map",
-    "main.4ef4c515.js.map": "/Celunea/static/js/main.4ef4c515.js.map"
+    "main.8c4db4b3.js.map": "/Celunea/static/js/main.8c4db4b3.js.map"
   },
   "entrypoints": [
     "static/css/main.86d324b6.css",
-    "static/js/main.4ef4c515.js"
+    "static/js/main.8c4db4b3.js"
   ]
 }
